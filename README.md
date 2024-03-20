@@ -38,7 +38,7 @@ As coleções de testes foram configuradas para simular diferentes cenários, co
 
 Lucas Guitti Bonando  
 E-mail: l.guitti@gmail.com 
-LinkedIn: [linkedin.com/in/lucas-guitti-bonando]([https://www.linkedin.com/in/lucasbonando](https://www.linkedin.com/in/lucas-guitti-bonando/))
+LinkedIn: [lucas-guitti-bonando](https://www.linkedin.com/in/lucas-guitti-bonando/)
 
 Se houver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato. Estou disponível para discussões e colaborações.
 
