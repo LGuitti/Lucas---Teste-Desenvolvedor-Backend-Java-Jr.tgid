@@ -28,6 +28,12 @@ Este projeto consiste em um sistema de transações financeiras entre empresas e
 2. Navegue até o diretório do projeto: `cd nome-do-repositorio`
 3. Execute o projeto utilizando o Spring Boot: `./mvnw spring-boot:run`
 
+## Testes com Postman
+
+Os testes foram realizados utilizando o Postman, uma plataforma amplamente utilizada para testes de APIs. Foram criadas coleções de requisições para validar os endpoints do sistema, incluindo casos de sucesso e casos de erro.
+
+As coleções de testes foram configuradas para simular diferentes cenários, como transações bem-sucedidas, transações com saldos insuficientes, validação de CPFs e CNPJs, entre outros. Foram incluídos também testes para verificar se as callbacks foram enviadas corretamente para as empresas e se as notificações foram enviadas aos clientes.
+
 ## Contato
 
 Lucas Guitti Bonando  
